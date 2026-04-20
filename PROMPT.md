@@ -57,9 +57,8 @@ After all 12 answers, create ONE file called index.html containing:
 ## Step 3 — Handoff
 
 After building, show me:
-1. The full index.html (or confirm where it was saved)
+1. Where the index.html file was saved
 2. How to open it locally (double-click the file)
-3. Three ways to deploy: Vercel drop, Netlify drop, GitHub Pages — with exact steps
-4. Three specific improvements to make once live
+3. Three specific improvements to make once the site is live
 
 Start the conversation now by asking me question 1.
