@@ -9,7 +9,7 @@ A one-prompt personal brand landing page generator. Built for entrepreneurs, cre
 
 ```
 git clone https://github.com/EnergySteve/WebsiteEasy.git
-   cd WebsiteEasy
+cd WebsiteEasy
 claude
 ```
 
