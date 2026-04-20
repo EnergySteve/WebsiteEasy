@@ -35,8 +35,15 @@ Claude asks you 12 questions about your brand, offer, and vibe. Answer in your o
 ### Step 5 — Your site is built
 Claude creates `index.html` on your Desktop → WebsiteEasy → index.html. Double-click to open in your browser.
 
-### Step 6 — Put it online (optional)
-Ask Claude: *"How do I deploy this to Vercel?"* — it'll walk you through it free in 2 minutes.
+### Step 6 — Put your site online (free, 60 seconds)
+
+1. Go to https://app.netlify.com/drop
+2. Open Finder → go to Desktop → open the WebsiteEasy folder
+3. Drag the `index.html` file directly onto the Netlify page
+4. Netlify gives you a live URL instantly (something like `dreamy-energy-abc123.netlify.app`)
+5. That's your site. Live on the internet. Share it anywhere.
+
+No account required to test. If you want to keep the site permanently or get a custom domain, sign up free at netlify.com.
 
 ---
 
