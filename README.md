@@ -8,8 +8,8 @@ A one-prompt personal brand landing page generator. Built for entrepreneurs, cre
 2. Open your terminal and run:
 
 ```
-git clone https://github.com/EnergySteve/energy-landing-page.git
-cd energy-landing-page
+git clone https://github.com/EnergySteve/WebsiteEasy.git
+   cd WebsiteEasy
 claude
 ```
 
